@@ -52,8 +52,3 @@ The application contains the following REST APIs
 ```
 
 It contain a sample WebClient to retrieve data from our User Management application.
-
-
-# spring-webflux-rest-api
-# spring-webflux-rest-api
-# spring-webflux-reactive-rest-api
